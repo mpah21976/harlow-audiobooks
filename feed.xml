@@ -3623,5 +3623,365 @@
     <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
     <itunes:duration>0:15:24</itunes:duration>
   </item>
+  <item>
+    <title>Living Arrangements, Chapter 1: Mode of Transport</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch01.mp3" length="8208902" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c01</guid>
+    <pubDate>Sat, 05 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:06</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 2: Referral Source</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch02.mp3" length="8500008" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c02</guid>
+    <pubDate>Sun, 06 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:42</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 3: Heat Precautions</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch03.mp3" length="7101309" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c03</guid>
+    <pubDate>Mon, 07 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:14:47</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 4: Key Holder</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch04.mp3" length="7473078" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c04</guid>
+    <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:15:34</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 5: Support Person</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch05.mp3" length="8658832" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c05</guid>
+    <pubDate>Wed, 09 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:18:02</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 6: Living Situation</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch06.mp3" length="9732153" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c06</guid>
+    <pubDate>Thu, 10 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:20:16</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 7: Independence Day</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch07.mp3" length="7890834" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c07</guid>
+    <pubDate>Fri, 11 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:16:26</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 8: Heat List</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch08.mp3" length="7689371" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c08</guid>
+    <pubDate>Sat, 12 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:16:01</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 9: Notification</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch09.mp3" length="7061390" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c09</guid>
+    <pubDate>Sun, 13 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:14:42</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 10: Local Contact</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch10.mp3" length="7383222" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c10</guid>
+    <pubDate>Mon, 14 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:15:22</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 11: Position Found</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch11.mp3" length="8204721" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c11</guid>
+    <pubDate>Tue, 15 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:05</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 12: Graveside</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch12.mp3" length="9269467" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c12</guid>
+    <pubDate>Wed, 16 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:19:18</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 13: Refused Visit</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch13.mp3" length="7908596" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c13</guid>
+    <pubDate>Thu, 17 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:16:28</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 14: Overnight Stay</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch14.mp3" length="8329064" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c14</guid>
+    <pubDate>Fri, 18 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:21</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 15: Verified Answer</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch15.mp3" length="8067005" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c15</guid>
+    <pubDate>Sat, 19 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:16:48</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 16: Skin Assessment</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch16.mp3" length="8287269" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c16</guid>
+    <pubDate>Sun, 20 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:15</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 17: Applicant</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch17.mp3" length="7678297" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c17</guid>
+    <pubDate>Mon, 21 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:15:59</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 18: Interval Data</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch18.mp3" length="8370232" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c18</guid>
+    <pubDate>Tue, 22 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:26</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 19: Showroom</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch19.mp3" length="7298580" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c19</guid>
+    <pubDate>Wed, 23 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:15:12</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 20: Support System</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch20.mp3" length="7115102" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c20</guid>
+    <pubDate>Thu, 24 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:14:49</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 21: Coffee Hour</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch21.mp3" length="8584852" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c21</guid>
+    <pubDate>Fri, 25 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:53</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 22: Survivorship</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch22.mp3" length="7702750" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c22</guid>
+    <pubDate>Sat, 26 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:16:02</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 23: Certified Copies</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch23.mp3" length="8221442" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c23</guid>
+    <pubDate>Sun, 27 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:07</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 24: Differential</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch24.mp3" length="8062613" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c24</guid>
+    <pubDate>Mon, 28 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:16:47</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 25: Need to Know</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch25.mp3" length="7149581" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c25</guid>
+    <pubDate>Tue, 29 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:14:53</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 26: Sequence of Events</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch26.mp3" length="8456755" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c26</guid>
+    <pubDate>Wed, 30 Jun 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:17:37</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 27: Voluntary Statement</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch27.mp3" length="7888331" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c27</guid>
+    <pubDate>Thu, 01 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:16:25</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 28: Corrective Action</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch28.mp3" length="7273929" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c28</guid>
+    <pubDate>Fri, 02 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:15:09</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 29: Closing Note</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch29.mp3" length="7316347" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c29</guid>
+    <pubDate>Sat, 03 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:15:14</itunes:duration>
+  </item>
+  <item>
+    <title>Living Arrangements, Chapter 30: Living Arrangements</title>
+    <description>Book 13 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/ch30.mp3" length="6881259" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b13-c30</guid>
+    <pubDate>Sun, 04 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>13</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
+    <itunes:duration>0:14:20</itunes:duration>
+  </item>
 </channel>
 </rss>
