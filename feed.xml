@@ -1811,5 +1811,365 @@
     <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book07/cover.jpg"/>
     <itunes:duration>0:16:04</itunes:duration>
   </item>
+  <item>
+    <title>Family History, Chapter 1: Airmail</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch01.mp3" length="8227694" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c01</guid>
+    <pubDate>Tue, 17 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:17:08</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 2: Care Of</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch02.mp3" length="7181124" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c02</guid>
+    <pubDate>Wed, 18 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:57</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 3: Obituary</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch03.mp3" length="7525315" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c03</guid>
+    <pubDate>Thu, 19 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:40</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 4: Heirs at Law</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch04.mp3" length="7261377" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c04</guid>
+    <pubDate>Fri, 20 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:07</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 5: Postmarks</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch05.mp3" length="6976744" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c05</guid>
+    <pubDate>Sat, 21 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:32</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 6: Bottom House</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch06.mp3" length="8025616" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c06</guid>
+    <pubDate>Sun, 22 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:16:43</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 7: Long Distance</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch07.mp3" length="6978420" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c07</guid>
+    <pubDate>Mon, 23 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:32</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 8: Arrivals</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch08.mp3" length="7550392" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c08</guid>
+    <pubDate>Tue, 24 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:43</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 9: Social History</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch09.mp3" length="7453014" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c09</guid>
+    <pubDate>Wed, 25 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:31</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 10: Specimen Signature</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch10.mp3" length="7437346" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c10</guid>
+    <pubDate>Thu, 26 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:29</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 11: Vital Signs</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch11.mp3" length="7207462" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c11</guid>
+    <pubDate>Fri, 27 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:00</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 12: Greens</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch12.mp3" length="7008508" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c12</guid>
+    <pubDate>Sat, 28 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:36</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 13: Collateral Contact</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch13.mp3" length="7916954" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c13</guid>
+    <pubDate>Sun, 29 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:16:29</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 14: Respite</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch14.mp3" length="7115507" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c14</guid>
+    <pubDate>Mon, 30 Nov 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:49</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 15: Departure</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch15.mp3" length="7626882" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c15</guid>
+    <pubDate>Tue, 01 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:53</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 16: Forshaw Street</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch16.mp3" length="7615811" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c16</guid>
+    <pubDate>Wed, 02 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:51</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 17: Public Post</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch17.mp3" length="6744990" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c17</guid>
+    <pubDate>Thu, 03 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:03</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 18: Le Repentir</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch18.mp3" length="8884523" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c18</guid>
+    <pubDate>Fri, 04 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:18:30</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 19: Lucid Interval</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch19.mp3" length="6984901" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c19</guid>
+    <pubDate>Sat, 05 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:33</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 20: Albouystown</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch20.mp3" length="8088729" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c20</guid>
+    <pubDate>Sun, 06 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:16:51</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 21: Notary</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch21.mp3" length="8760175" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c21</guid>
+    <pubDate>Mon, 07 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:18:14</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 22: Paramaribo</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch22.mp3" length="8489759" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c22</guid>
+    <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:17:41</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 23: Yes and No</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch23.mp3" length="9171660" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c23</guid>
+    <pubDate>Wed, 09 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:19:06</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 24: Paid Up</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch24.mp3" length="7563350" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c24</guid>
+    <pubDate>Thu, 10 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:15:45</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 25: Invitations</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch25.mp3" length="7032755" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c25</guid>
+    <pubDate>Fri, 11 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:39</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 26: The Porch</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch26.mp3" length="7012273" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c26</guid>
+    <pubDate>Sat, 12 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:36</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 27: Supper</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch27.mp3" length="6888345" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c27</guid>
+    <pubDate>Sun, 13 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:14:20</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 28: Family History</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch28.mp3" length="8186325" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c28</guid>
+    <pubDate>Mon, 14 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:17:03</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 29: You&#x27;re Late</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch29.mp3" length="8231253" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c29</guid>
+    <pubDate>Tue, 15 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:17:08</itunes:duration>
+  </item>
+  <item>
+    <title>Family History, Chapter 30: Home</title>
+    <description>Book 8 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/ch30.mp3" length="7821646" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b08-c30</guid>
+    <pubDate>Wed, 16 Dec 2020 12:00:00 +0000</pubDate>
+    <itunes:season>8</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book08/cover.jpg"/>
+    <itunes:duration>0:16:17</itunes:duration>
+  </item>
 </channel>
 </rss>
