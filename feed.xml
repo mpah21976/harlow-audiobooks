@@ -1091,5 +1091,365 @@
     <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
     <itunes:duration>0:14:01</itunes:duration>
   </item>
+  <item>
+    <title>Next of Kin, Chapter 1: Voicemail</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch01.mp3" length="7892072" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c01</guid>
+    <pubDate>Sat, 29 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:26</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 2: King</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch02.mp3" length="8561637" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c02</guid>
+    <pubDate>Sun, 30 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:17:50</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 3: Statement</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch03.mp3" length="7355830" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c03</guid>
+    <pubDate>Mon, 31 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:19</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 4: Logo</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch04.mp3" length="8601553" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c04</guid>
+    <pubDate>Tue, 01 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:17:55</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 5: Start of Care</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch05.mp3" length="8363534" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c05</guid>
+    <pubDate>Wed, 02 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:17:25</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 6: Visitation</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch06.mp3" length="7871175" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c06</guid>
+    <pubDate>Thu, 03 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:23</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 7: The Fifteenth</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch07.mp3" length="8199067" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c07</guid>
+    <pubDate>Fri, 04 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:17:04</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 8: Search</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch08.mp3" length="8790890" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c08</guid>
+    <pubDate>Sat, 05 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:18:18</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 9: Old Template</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch09.mp3" length="8155807" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c09</guid>
+    <pubDate>Sun, 06 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:59</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 10: Second Clutch</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch10.mp3" length="7158350" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c10</guid>
+    <pubDate>Mon, 07 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:14:54</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 11: Vaughn</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch11.mp3" length="7536597" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c11</guid>
+    <pubDate>Tue, 08 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:42</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 12: Door Handle</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch12.mp3" length="6951041" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c12</guid>
+    <pubDate>Wed, 09 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:14:28</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 13: Purse</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch13.mp3" length="7654042" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c13</guid>
+    <pubDate>Thu, 10 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:56</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 14: Three Steps</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch14.mp3" length="7205578" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c14</guid>
+    <pubDate>Fri, 11 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:00</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 15: Unopened</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch15.mp3" length="7850695" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c15</guid>
+    <pubDate>Sat, 12 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:21</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 16: Walker Pate</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch16.mp3" length="7707965" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c16</guid>
+    <pubDate>Sun, 13 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:03</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 17: Route</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch17.mp3" length="8457151" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c17</guid>
+    <pubDate>Mon, 14 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:17:37</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 18: Birthday</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch18.mp3" length="8510652" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c18</guid>
+    <pubDate>Tue, 15 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:17:43</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 19: Indentation</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch19.mp3" length="8431661" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c19</guid>
+    <pubDate>Wed, 16 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:17:33</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 20: Theory</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch20.mp3" length="7845468" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c20</guid>
+    <pubDate>Thu, 17 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:20</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 21: Personnel</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch21.mp3" length="7342249" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c21</guid>
+    <pubDate>Fri, 18 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:17</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 22: Exact Words</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch22.mp3" length="7882881" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c22</guid>
+    <pubDate>Sat, 19 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:25</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 23: Docket</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch23.mp3" length="6930138" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c23</guid>
+    <pubDate>Sun, 20 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:14:26</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 24: Down With the Bad</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch24.mp3" length="7662413" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c24</guid>
+    <pubDate>Mon, 21 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:57</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 25: Pocketbook</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch25.mp3" length="7284989" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c25</guid>
+    <pubDate>Tue, 22 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:10</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 26: Forward</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch26.mp3" length="7014358" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c26</guid>
+    <pubDate>Wed, 23 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:14:36</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 27: Invitations</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch27.mp3" length="7827501" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c27</guid>
+    <pubDate>Thu, 24 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:16:18</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 28: Sunday Dinner</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch28.mp3" length="8966442" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c28</guid>
+    <pubDate>Fri, 25 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:18:40</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 29: Next of Kin</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch29.mp3" length="7549140" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c29</guid>
+    <pubDate>Sat, 26 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:43</itunes:duration>
+  </item>
+  <item>
+    <title>Next of Kin, Chapter 30: The Message</title>
+    <description>Book 6 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/ch30.mp3" length="7322397" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b06-c30</guid>
+    <pubDate>Sun, 27 Sep 2020 12:00:00 +0000</pubDate>
+    <itunes:season>6</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book06/cover.jpg"/>
+    <itunes:duration>0:15:15</itunes:duration>
+  </item>
 </channel>
 </rss>
