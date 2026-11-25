@@ -3263,5 +3263,365 @@
     <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book11/cover.jpg"/>
     <itunes:duration>0:15:51</itunes:duration>
   </item>
+  <item>
+    <title>Emergency Contact, Chapter 1: Callback Number</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch01.mp3" length="8356855" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c01</guid>
+    <pubDate>Mon, 26 Apr 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:24</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 2: Service Agreement</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch02.mp3" length="6827963" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c02</guid>
+    <pubDate>Tue, 27 Apr 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:13</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 3: Home Safety Check</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch03.mp3" length="6720965" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c03</guid>
+    <pubDate>Wed, 28 Apr 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:00</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 4: Minimum Necessary</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch04.mp3" length="6826291" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c04</guid>
+    <pubDate>Thu, 29 Apr 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:13</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 5: Visit Frequency</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch05.mp3" length="6984486" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c05</guid>
+    <pubDate>Fri, 30 Apr 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:33</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 6: Relationship to Patient</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch06.mp3" length="8230640" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c06</guid>
+    <pubDate>Sat, 01 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:08</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 7: Home Environment</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch07.mp3" length="7716961" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c07</guid>
+    <pubDate>Sun, 02 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:16:04</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 8: Manner of Death</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch08.mp3" length="6761505" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c08</guid>
+    <pubDate>Mon, 03 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:05</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 9: Equipment Check</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch09.mp3" length="7372562" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c09</guid>
+    <pubDate>Tue, 04 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:15:21</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 10: Unscheduled Visit</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch10.mp3" length="6877284" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c10</guid>
+    <pubDate>Wed, 05 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:19</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 11: Current Medications</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch11.mp3" length="7734102" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c11</guid>
+    <pubDate>Thu, 06 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:16:06</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 12: Preferred Name</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch12.mp3" length="8328226" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c12</guid>
+    <pubDate>Fri, 07 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:20</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 13: Entry Instructions</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch13.mp3" length="8178392" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c13</guid>
+    <pubDate>Sat, 08 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:02</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 14: Shift Change</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch14.mp3" length="7330974" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c14</guid>
+    <pubDate>Sun, 09 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:15:16</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 15: Date of Death</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch15.mp3" length="7455735" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c15</guid>
+    <pubDate>Mon, 10 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:15:31</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 16: Sundowning</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch16.mp3" length="8593417" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c16</guid>
+    <pubDate>Tue, 11 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:54</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 17: Nature of Call</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch17.mp3" length="7372354" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c17</guid>
+    <pubDate>Wed, 12 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:15:21</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 18: Household Members</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch18.mp3" length="8266580" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c18</guid>
+    <pubDate>Thu, 13 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:13</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 19: Schedule Change</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch19.mp3" length="7534314" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c19</guid>
+    <pubDate>Fri, 14 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:15:41</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 20: Method of Disposition</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch20.mp3" length="7526170" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c20</guid>
+    <pubDate>Sat, 15 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:15:40</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 21: Quality Review</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch21.mp3" length="8215168" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c21</guid>
+    <pubDate>Sun, 16 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:06</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 22: Witness Statement</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch22.mp3" length="8931553" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c22</guid>
+    <pubDate>Mon, 17 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:18:36</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 23: Rule Out</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch23.mp3" length="6845092" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c23</guid>
+    <pubDate>Tue, 18 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:15</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 24: Telephone Encounter</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch24.mp3" length="6959624" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c24</guid>
+    <pubDate>Wed, 19 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:14:29</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 25: Response Time</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch25.mp3" length="6648238" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c25</guid>
+    <pubDate>Thu, 20 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:13:50</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 26: Home Visit</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch26.mp3" length="8323625" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c26</guid>
+    <pubDate>Fri, 21 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:20</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 27: Lone Worker</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch27.mp3" length="8180266" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c27</guid>
+    <pubDate>Sat, 22 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:17:02</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 28: Observation Status</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch28.mp3" length="7865131" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c28</guid>
+    <pubDate>Sun, 23 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:16:23</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 29: Statement of Wishes</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch29.mp3" length="7729923" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c29</guid>
+    <pubDate>Mon, 24 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:16:06</itunes:duration>
+  </item>
+  <item>
+    <title>Emergency Contact, Chapter 30: Primary Contact</title>
+    <description>Book 12 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/ch30.mp3" length="7398059" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b12-c30</guid>
+    <pubDate>Tue, 25 May 2021 12:00:00 +0000</pubDate>
+    <itunes:season>12</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book12/cover.jpg"/>
+    <itunes:duration>0:15:24</itunes:duration>
+  </item>
 </channel>
 </rss>
