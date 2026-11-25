@@ -1,4 +1,5 @@
-"""Builds feed.xml (one podcast feed for the whole Harlow Home Care Mysteries series) from audio/bookNN/."""
+"""To add a book: copy_book.py on the Mac (AngelStudio/feed-copies) makes audio/bookNN/ (chNN.mp3, cover.jpg, chapters.tsv, title.txt); copy it here, run this, commit, push.
+Builds feed.xml (one podcast feed for the whole Harlow Home Care Mysteries series) from audio/bookNN/."""
 import os, glob, datetime, email.utils, html
 BASE = "https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/"
 TITLES = {1: "Missed Visit", 2: "Change in Condition", 3: "Advance Directive", 4: "Responsible Party", 5: "Homebound",
@@ -13,7 +14,7 @@ def dur(path):
 start = datetime.datetime(2020, 1, 1, 12, tzinfo=datetime.timezone.utc)   # fixed, so the order is always book, then chapter
 items = []
 for d in sorted(glob.glob("audio/book*")):
-    n = int(d[-2:]); t = TITLES[n]
+    n = int(d[-2:]); t = open(f"{d}/title.txt").read().strip() if os.path.exists(f"{d}/title.txt") else TITLES[n]
     chs = dict(l.split("\t", 1) for l in open(f"{d}/chapters.tsv").read().splitlines() if l)
     for c in sorted(chs, key=int):
         f = f"{d}/ch{int(c):02d}.mp3"
