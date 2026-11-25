@@ -731,5 +731,365 @@
     <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book04/cover.jpg"/>
     <itunes:duration>0:15:30</itunes:duration>
   </item>
+  <item>
+    <title>Homebound, Chapter 1: Easter Monday</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch01.mp3" length="8107950" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c01</guid>
+    <pubDate>Mon, 20 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:16:53</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 2: Coverage</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch02.mp3" length="6957512" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c02</guid>
+    <pubDate>Tue, 21 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:29</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 3: Face Sheet</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch03.mp3" length="7316332" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c03</guid>
+    <pubDate>Wed, 22 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:14</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 4: Terrys All Over</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch04.mp3" length="7450711" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c04</guid>
+    <pubDate>Thu, 23 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:31</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 5: Payroll</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch05.mp3" length="6937240" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c05</guid>
+    <pubDate>Fri, 24 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:27</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 6: Wytheville</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch06.mp3" length="7416224" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c06</guid>
+    <pubDate>Sat, 25 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:26</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 7: Springfield</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch07.mp3" length="7668255" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c07</guid>
+    <pubDate>Sun, 26 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:58</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 8: Shoeboxes</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch08.mp3" length="7085827" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c08</guid>
+    <pubDate>Mon, 27 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:45</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 9: Extraction</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch09.mp3" length="7343917" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c09</guid>
+    <pubDate>Tue, 28 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:17</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 10: Flatlander</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch10.mp3" length="6988654" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c10</guid>
+    <pubDate>Wed, 29 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:33</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 11: Lumber Tarp</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch11.mp3" length="7028361" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c11</guid>
+    <pubDate>Thu, 30 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:38</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 12: Two Four Seven</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch12.mp3" length="7644227" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c12</guid>
+    <pubDate>Fri, 31 Jul 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:55</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 13: Composition Book</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch13.mp3" length="7202028" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c13</guid>
+    <pubDate>Sat, 01 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:00</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 14: Lucid</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch14.mp3" length="7372336" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c14</guid>
+    <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:21</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 15: Exceptional Clearance</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch15.mp3" length="6850321" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c15</guid>
+    <pubDate>Mon, 03 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:16</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 16: What Clay Said</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch16.mp3" length="6926382" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c16</guid>
+    <pubDate>Tue, 04 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:25</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 17: Summerfield</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch17.mp3" length="7664077" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c17</guid>
+    <pubDate>Wed, 05 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:57</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 18: Jack</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch18.mp3" length="6459512" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c18</guid>
+    <pubDate>Thu, 06 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:13:27</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 19: Long Distance</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch19.mp3" length="7796781" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c19</guid>
+    <pubDate>Fri, 07 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:16:14</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 20: Remote Memory</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch20.mp3" length="8282659" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c20</guid>
+    <pubDate>Sat, 08 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:17:15</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 21: Going Home</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch21.mp3" length="10721030" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c21</guid>
+    <pubDate>Sun, 09 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:22:20</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 22: Farther Along</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch22.mp3" length="8488713" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c22</guid>
+    <pubDate>Mon, 10 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:17:41</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 23: The Photo Board</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch23.mp3" length="7379660" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c23</guid>
+    <pubDate>Tue, 11 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:22</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 24: Cast</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch24.mp3" length="7595107" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c24</guid>
+    <pubDate>Wed, 12 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:15:49</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 25: Sugar Bowl</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch25.mp3" length="6387211" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c25</guid>
+    <pubDate>Thu, 13 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:13:18</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 26: Eleven Forty</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch26.mp3" length="8254027" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c26</guid>
+    <pubDate>Fri, 14 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:17:11</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 27: Invitations</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch27.mp3" length="6523049" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c27</guid>
+    <pubDate>Sat, 15 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:13:35</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 28: Prayer Meeting</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch28.mp3" length="8267404" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c28</guid>
+    <pubDate>Sun, 16 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:17:13</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 29: Homebound</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch29.mp3" length="8673447" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c29</guid>
+    <pubDate>Mon, 17 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:18:04</itunes:duration>
+  </item>
+  <item>
+    <title>Homebound, Chapter 30: Mother&#x27;s Day</title>
+    <description>Book 5 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/ch30.mp3" length="6730984" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b05-c30</guid>
+    <pubDate>Tue, 18 Aug 2020 12:00:00 +0000</pubDate>
+    <itunes:season>5</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book05/cover.jpg"/>
+    <itunes:duration>0:14:01</itunes:duration>
+  </item>
 </channel>
 </rss>
