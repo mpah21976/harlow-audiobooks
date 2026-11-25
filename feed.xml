@@ -9,8 +9,368 @@
   <itunes:type>serial</itunes:type>
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
-  <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book03/cover.jpg"/>
-  <image><url>https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book03/cover.jpg</url><title>Harlow Home Care Mysteries</title><link>https://github.com/mpah21976/harlow-audiobooks</link></image>
+  <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+  <image><url>https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg</url><title>Harlow Home Care Mysteries</title><link>https://github.com/mpah21976/harlow-audiobooks</link></image>
+  <item>
+    <title>Missed Visit, Chapter 1: Missed Visit</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch01.mp3" length="10370574" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c01</guid>
+    <pubDate>Tue, 11 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:21:36</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 2: The Empty House</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch02.mp3" length="7814338" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c02</guid>
+    <pubDate>Wed, 12 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:16:16</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 3: Walter</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch03.mp3" length="7601588" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c03</guid>
+    <pubDate>Thu, 13 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:50</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 4: Power of Attorney</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch04.mp3" length="7547056" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c04</guid>
+    <pubDate>Fri, 14 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:43</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 5: Public Record</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch05.mp3" length="7139959" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c05</guid>
+    <pubDate>Sat, 15 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:52</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 6: Grown Man&#x27;s Right</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch06.mp3" length="7152293" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c06</guid>
+    <pubDate>Sun, 16 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:53</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 7: The Helpful Handyman</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch07.mp3" length="7540162" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c07</guid>
+    <pubDate>Mon, 17 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:42</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 8: Miss Loretta</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch08.mp3" length="7220624" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c08</guid>
+    <pubDate>Tue, 18 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:02</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 9: 11-42</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch09.mp3" length="7906488" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c09</guid>
+    <pubDate>Wed, 19 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:16:28</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 10: The Son</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch10.mp3" length="8496860" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c10</guid>
+    <pubDate>Thu, 20 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:17:42</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 11: The Whiteboard</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch11.mp3" length="8066578" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c11</guid>
+    <pubDate>Fri, 21 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:16:48</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 12: Across the Road</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch12.mp3" length="7156682" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c12</guid>
+    <pubDate>Sat, 22 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:54</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 13: Cherokee</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch13.mp3" length="7055738" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c13</guid>
+    <pubDate>Sun, 23 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:41</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 14: Seen on Sunday</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch14.mp3" length="7367541" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c14</guid>
+    <pubDate>Mon, 24 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:20</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 15: The Notebook</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch15.mp3" length="7476626" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c15</guid>
+    <pubDate>Tue, 25 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:34</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 16: Register of Deeds</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch16.mp3" length="7523443" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c16</guid>
+    <pubDate>Wed, 26 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:40</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 17: Dead End</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch17.mp3" length="7957693" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c17</guid>
+    <pubDate>Thu, 27 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:16:34</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 18: Date Night</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch18.mp3" length="6809144" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c18</guid>
+    <pubDate>Fri, 28 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:11</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 19: The Arrest</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch19.mp3" length="6883122" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c19</guid>
+    <pubDate>Sat, 29 Feb 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:20</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 20: Visiting Hours</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch20.mp3" length="6907159" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c20</guid>
+    <pubDate>Sun, 01 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:23</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 21: The Letter</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch21.mp3" length="6692324" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c21</guid>
+    <pubDate>Mon, 02 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:13:56</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 22: The Notary</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch22.mp3" length="7347893" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c22</guid>
+    <pubDate>Tue, 03 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:18</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 23: Planning Board</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch23.mp3" length="7618944" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c23</guid>
+    <pubDate>Wed, 04 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:52</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 24: The Deal</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch24.mp3" length="7957275" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c24</guid>
+    <pubDate>Thu, 05 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:16:34</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 25: The French Drain</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch25.mp3" length="6804761" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c25</guid>
+    <pubDate>Fri, 06 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:10</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 26: Not Alone</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch26.mp3" length="7115925" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c26</guid>
+    <pubDate>Sat, 07 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:14:49</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 27: Invitations</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch27.mp3" length="7551022" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c27</guid>
+    <pubDate>Sun, 08 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:15:43</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 28: The Reveal, Part One</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch28.mp3" length="8047149" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c28</guid>
+    <pubDate>Mon, 09 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:16:45</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 29: The Reveal, Part Two</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch29.mp3" length="8642741" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c29</guid>
+    <pubDate>Tue, 10 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:18:00</itunes:duration>
+  </item>
+  <item>
+    <title>Missed Visit, Chapter 30: Voicemail</title>
+    <description>Book 1 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/ch30.mp3" length="7832725" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b01-c30</guid>
+    <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book01/cover.jpg"/>
+    <itunes:duration>0:16:19</itunes:duration>
+  </item>
   <item>
     <title>Advance Directive, Chapter 1: The Truck Next Door</title>
     <description>Book 3 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
