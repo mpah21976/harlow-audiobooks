@@ -4703,5 +4703,365 @@
     <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book13/cover.jpg"/>
     <itunes:duration>0:14:20</itunes:duration>
   </item>
+  <item>
+    <title>Self-Administered, Chapter 1: Verbal Order</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch01.mp3" length="8387154" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c01</guid>
+    <pubDate>Thu, 15 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:28</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 2: Facility Use</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch02.mp3" length="8147455" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c02</guid>
+    <pubDate>Fri, 16 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:58</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 3: Medication Reminder</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch03.mp3" length="8426450" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c03</guid>
+    <pubDate>Sat, 17 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:33</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 4: Witness Statement</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch04.mp3" length="8462392" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c04</guid>
+    <pubDate>Sun, 18 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:37</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 5: Date of Death</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch05.mp3" length="7862826" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c05</guid>
+    <pubDate>Mon, 19 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:22</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 6: Intake</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch06.mp3" length="7820814" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c06</guid>
+    <pubDate>Tue, 20 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:17</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 7: Bereavement</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch07.mp3" length="7878079" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c07</guid>
+    <pubDate>Wed, 21 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:24</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 8: Home Visit</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch08.mp3" length="8463639" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c08</guid>
+    <pubDate>Thu, 22 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:37</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 9: Toxicology</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch09.mp3" length="8016423" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c09</guid>
+    <pubDate>Fri, 23 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:42</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 10: Scene Report</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch10.mp3" length="7872440" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c10</guid>
+    <pubDate>Sat, 24 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:24</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 11: Therapeutic Level</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch11.mp3" length="7974009" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c11</guid>
+    <pubDate>Sun, 25 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:36</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 12: First Names Only</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch12.mp3" length="8437107" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c12</guid>
+    <pubDate>Mon, 26 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:34</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 13: Beneficiary</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch13.mp3" length="8221435" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c13</guid>
+    <pubDate>Tue, 27 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:07</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 14: Contributing Factors</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch14.mp3" length="7487925" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c14</guid>
+    <pubDate>Wed, 28 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:15:35</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 15: Risk Assessment</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch15.mp3" length="8018728" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c15</guid>
+    <pubDate>Thu, 29 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:42</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 16: Surveillance</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch16.mp3" length="7810791" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c16</guid>
+    <pubDate>Fri, 30 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:16</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 17: Correspondence</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch17.mp3" length="6963590" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c17</guid>
+    <pubDate>Sat, 31 Jul 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:14:30</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 18: Panel Interview</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch18.mp3" length="7697736" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c18</guid>
+    <pubDate>Sun, 01 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:02</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 19: Field Notes</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch19.mp3" length="7279146" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c19</guid>
+    <pubDate>Mon, 02 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:15:09</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 20: Time Stamp</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch20.mp3" length="7877662" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c20</guid>
+    <pubDate>Tue, 03 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:24</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 21: Chain of Title</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch21.mp3" length="8379426" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c21</guid>
+    <pubDate>Wed, 04 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:27</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 22: Exclusion Period</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch22.mp3" length="7896476" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c22</guid>
+    <pubDate>Thu, 05 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:16:27</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 23: Family History</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch23.mp3" length="8394264" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c23</guid>
+    <pubDate>Fri, 06 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:29</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 24: Search Warrant</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch24.mp3" length="7509653" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c24</guid>
+    <pubDate>Sat, 07 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:15:38</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 25: Last Wishes</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch25.mp3" length="7546013" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c25</guid>
+    <pubDate>Sun, 08 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:15:43</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 26: Guardianship</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch26.mp3" length="8348913" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c26</guid>
+    <pubDate>Mon, 09 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:17:23</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 27: Night Driving</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch27.mp3" length="7225440" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c27</guid>
+    <pubDate>Tue, 10 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:15:03</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 28: Peer Support</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch28.mp3" length="7169014" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c28</guid>
+    <pubDate>Wed, 11 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:14:56</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 29: Balance Due</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch29.mp3" length="6742068" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c29</guid>
+    <pubDate>Thu, 12 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:14:02</itunes:duration>
+  </item>
+  <item>
+    <title>Self-Administered, Chapter 30: Self-Administered</title>
+    <description>Book 14 of the Harlow Home Care Mysteries, by M. P. Asuncion. Read by Ambrose.</description>
+    <enclosure url="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/ch30.mp3" length="7487713" type="audio/mpeg"/>
+    <guid isPermaLink="false">harlow-b14-c30</guid>
+    <pubDate>Fri, 13 Aug 2021 12:00:00 +0000</pubDate>
+    <itunes:season>14</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/mpah21976/harlow-audiobooks/main/audio/book14/cover.jpg"/>
+    <itunes:duration>0:15:35</itunes:duration>
+  </item>
 </channel>
 </rss>
